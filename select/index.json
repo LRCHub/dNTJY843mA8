@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Somewhere I Belong",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-02-17T11:34:42.172765Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Somewhere I Belong",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_Somewhere_I_Belong_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Somewhere I Belong (Hidden Track)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/02_Somewhere_I_Belong_(Hidden_Track)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Somewhere I Belong - Live from Koln, 2008",
+      "artist": "LINKIN PARK",
+      "has_synced": false,
+      "path": "select/03_Somewhere_I_Belong_-_Live_from_Koln,_2008_LINKIN_PARK.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Somewhere I Belong (Live)",
+      "artist": "LINKIN PARK",
+      "has_synced": false,
+      "path": "select/04_Somewhere_I_Belong_(Live)_LINKIN_PARK.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Somewhere I Belong (Single Edit)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/05_Somewhere_I_Belong_(Single_Edit)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Somewhere I Belong - Live",
+      "artist": "LINKIN PARK",
+      "has_synced": false,
+      "path": "select/06_Somewhere_I_Belong_-_Live_LINKIN_PARK.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Somewhere I Belong [Live]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/07_Somewhere_I_Belong_[Live]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Somewhere I Belong",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/08_Somewhere_I_Belong_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Somewhere I Belong",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/09_Somewhere_I_Belong_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Somewhere I Belong",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/10_Somewhere_I_Belong_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Somewhere I Belong",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/11_Somewhere_I_Belong_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Somewhere I Belong",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/12_Somewhere_I_Belong_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Somewhere I Belong (Live at Milton Keynes) [Bonus Track]",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/13_Somewhere_I_Belong_(Live_at_Milton_Keynes)_[Bonus_Track]_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Somewhere I Belong",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/pl_01_Somewhere_I_Belong_Linkin_Park.txt"
+    }
+  ]
+}
